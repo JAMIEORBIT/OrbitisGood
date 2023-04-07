@@ -110,11 +110,11 @@ for i, v in pairs(plrGui:GetChildren()) do
                         Background.Visible = false
                         print("There")
                         if a == 13822889 then -- Place ID / Game ID
-                            loadstring(game:HttpGet("https://raw.githubusercontent.com/JAMIEORBIT/OrbitisGood/main/OrbitHubLT2.txt"))() --Loadstring
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/JAMIEORBIT/OrbitisGood/main/OP_LT2_SCRIPT.lua"))() --Loadstring
                             print("working")
 
                         elseif a == 13822889 then -- Place ID / Game ID
-                            loadstring(game:HttpGet("https://raw.githubusercontent.com/JAMIEORBIT/OrbitisGood/main/OrbitHubLT2.txt"))() --Loadstring
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/JAMIEORBIT/OrbitisGood/main/OP_LT2_SCRIPT.lua"))() --Loadstring
                             print("working")
 
                             --game.Players.LocalPlayer:Kick("Not Supported")
